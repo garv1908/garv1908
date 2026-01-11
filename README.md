@@ -20,13 +20,12 @@ some hackathons i've won:
 
 ### a bit about me
 - i’m curious, intentional, and genuinely enjoy learning new things  
-- i like pushing myself into unfamiliar territory — that’s where i learn best  
+- i like pushing myself into unfamiliar territory! that’s where i learn best  
 - i care a lot about communication.
 
 outside of code, i enjoy:
-- good cinema (ask me for my Letterboxd)
+- good cinema (ask me for my letterboxd)
 - exploring new places & appreciating art
-- playing volleyball
 - meeting thoughtful, interesting people
 
 ---
@@ -34,7 +33,6 @@ outside of code, i enjoy:
 ### things i value
 - knowing *how* to learn
 - being honest about what i don’t know (yet)
-- writing code i’m proud of
 - staying genuine, even in professional spaces
 
 ---
