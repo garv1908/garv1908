@@ -1,6 +1,6 @@
 ## hey, i’m garv!
 
-i’m a software engineer who loves building things and understanding how systems work under the hood. i’m especially drawn to **backend engineering** — designing APIs, working with data, and making things scale.
+i’m a software engineer who loves building things and understanding how systems work under the hood. i’m especially drawn to **backend engineering** - designing APIs, working with data, and making things scale.
 
 i’ve been to **~15 hackathons**, won **3**, and even helped organize one with my team at **Google Developer Group @ TMU**. i really enjoy taking an idea and breaking it down to build it back up - cleanly :)
 
