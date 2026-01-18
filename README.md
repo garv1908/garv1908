@@ -39,7 +39,7 @@ outside of code, i enjoy:
 
 ### find me elsewhere
 - 💼 [linkedin](https://www.linkedin.com/in/garv1908/)
-- ✍️ unorganized thoughts on substack: [garv1908.substack.com](https://garv1908.substack.com)
+- ✍️ unorganized thoughts on substack: [garvy.substack.com](https://garvy.substack.com)
 
 feel free to reach out if you think we’d get along :)
 
